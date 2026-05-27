@@ -1,2 +1,5 @@
 # tpGrupalLinuxComputacionAplicada
-Repositorio que contiene los directorios 
+# Integrantes
+jONATHAN BOYNE
+HECTOR PONCE SCHWARZ
+FACUNDO SAFE
