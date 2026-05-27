@@ -1,5 +1,5 @@
-# tpGrupalLinuxComputacionAplicada
+# Trabajo Grupal - Computacion Aplicada
 # Integrantes
-jONATHAN BOYNE
-HECTOR PONCE SCHWARZ
+jONATHAN BOYNE<br>
+HECTOR PONCE SCHWARZ<br>
 FACUNDO SAFE
